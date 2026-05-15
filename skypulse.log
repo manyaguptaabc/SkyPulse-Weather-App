@@ -1,0 +1,59 @@
+INFO 2025-09-28 23:42:47,881 autoreload Watching for file changes with StatReloader
+INFO 2025-09-28 23:43:02,259 autoreload C:\Users\DELL\Documents\SkyPulse-Weather-Forecasting-Web-App12\weatherapp\views.py changed, reloading.
+INFO 2025-09-28 23:43:03,507 autoreload Watching for file changes with StatReloader
+INFO 2025-09-28 23:43:15,410 autoreload C:\Users\DELL\Documents\SkyPulse-Weather-Forecasting-Web-App12\skypulse\urls.py changed, reloading.
+INFO 2025-09-28 23:43:23,742 autoreload Watching for file changes with StatReloader
+INFO 2025-09-28 23:44:07,837 autoreload Watching for file changes with StatReloader
+ERROR 2025-09-28 23:44:33,477 views Error fetching data for Delhi: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Delhi&appid=your_real_api_key_here&units=metric
+ERROR 2025-09-28 23:44:33,680 views Error fetching data for Mumbai: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Mumbai&appid=your_real_api_key_here&units=metric
+ERROR 2025-09-28 23:44:33,891 views Error fetching data for Bangalore: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Bangalore&appid=your_real_api_key_here&units=metric
+ERROR 2025-09-28 23:44:34,103 views Error fetching data for Chennai: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=your_real_api_key_here&units=metric
+ERROR 2025-09-28 23:44:34,306 views Error fetching data for Kolkata: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Kolkata&appid=your_real_api_key_here&units=metric
+ERROR 2025-09-28 23:44:34,517 views Error fetching data for Hyderabad: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Hyderabad&appid=your_real_api_key_here&units=metric
+ERROR 2025-09-28 23:44:34,721 views Error fetching data for Pune: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Pune&appid=your_real_api_key_here&units=metric
+ERROR 2025-09-28 23:44:34,941 views Error fetching data for Ahmedabad: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Ahmedabad&appid=your_real_api_key_here&units=metric
+ERROR 2025-09-28 23:44:35,148 views Error fetching data for Jaipur: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Jaipur&appid=your_real_api_key_here&units=metric
+ERROR 2025-09-28 23:44:35,347 views Error fetching data for Lucknow: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Lucknow&appid=your_real_api_key_here&units=metric
+INFO 2025-09-28 23:48:44,367 autoreload Watching for file changes with StatReloader
+INFO 2025-09-28 23:48:55,860 views Fetched weather for Delhi successfully
+INFO 2025-09-28 23:48:56,060 views Fetched weather for Mumbai successfully
+INFO 2025-09-28 23:48:56,264 views Fetched weather for Bangalore successfully
+INFO 2025-09-28 23:48:56,496 views Fetched weather for Chennai successfully
+INFO 2025-09-28 23:48:56,700 views Fetched weather for Kolkata successfully
+INFO 2025-09-28 23:48:56,911 views Fetched weather for Hyderabad successfully
+INFO 2025-09-28 23:48:57,111 views Fetched weather for Pune successfully
+INFO 2025-09-28 23:48:57,313 views Fetched weather for Ahmedabad successfully
+INFO 2025-09-28 23:48:57,529 views Fetched weather for Jaipur successfully
+INFO 2025-09-28 23:48:57,803 views Fetched weather for Lucknow successfully
+INFO 2025-09-28 23:55:25,340 autoreload C:\Users\DELL\Documents\SkyPulse-Weather-Forecasting-Web-App12\weatherapp\views.py changed, reloading.
+INFO 2025-09-28 23:55:33,188 autoreload Watching for file changes with StatReloader
+INFO 2025-09-28 23:56:27,784 autoreload C:\Users\DELL\Documents\SkyPulse-Weather-Forecasting-Web-App12\weatherapp\views.py changed, reloading.
+INFO 2025-09-28 23:56:34,946 autoreload Watching for file changes with StatReloader
+INFO 2025-09-28 23:56:43,199 autoreload Watching for file changes with StatReloader
+INFO 2025-09-28 23:58:33,470 autoreload C:\Users\DELL\Documents\SkyPulse-Weather-Forecasting-Web-App12\weatherapp\views.py changed, reloading.
+INFO 2025-09-28 23:58:40,168 autoreload Watching for file changes with StatReloader
+INFO 2025-09-28 23:58:44,247 autoreload C:\Users\DELL\Documents\SkyPulse-Weather-Forecasting-Web-App12\skypulse\urls.py changed, reloading.
+INFO 2025-09-28 23:58:45,206 autoreload Watching for file changes with StatReloader
+INFO 2025-09-28 23:59:54,484 autoreload C:\Users\DELL\Documents\SkyPulse-Weather-Forecasting-Web-App12\skypulse\urls.py changed, reloading.
+INFO 2025-09-29 00:00:01,596 autoreload Watching for file changes with StatReloader
+INFO 2025-09-29 00:01:27,029 autoreload C:\Users\DELL\Documents\SkyPulse-Weather-Forecasting-Web-App12\weatherapp\views.py changed, reloading.
+INFO 2025-09-29 00:01:34,246 autoreload Watching for file changes with StatReloader
+ERROR 2025-09-29 00:01:49,192 views Failed to fetch weather for Chennai: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Chennai&units=metric&appid=YOUR_OPENWEATHERMAP_API_KEY
+ERROR 2025-09-29 00:01:49,193 views Failed to fetch weather for Pune: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Pune&units=metric&appid=YOUR_OPENWEATHERMAP_API_KEY
+ERROR 2025-09-29 00:01:49,193 views Failed to fetch weather for Bangalore: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Bangalore&units=metric&appid=YOUR_OPENWEATHERMAP_API_KEY
+ERROR 2025-09-29 00:01:49,195 views Failed to fetch weather for Delhi: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Delhi&units=metric&appid=YOUR_OPENWEATHERMAP_API_KEY
+ERROR 2025-09-29 00:01:49,195 views Failed to fetch weather for Hyderabad: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Hyderabad&units=metric&appid=YOUR_OPENWEATHERMAP_API_KEY
+ERROR 2025-09-29 00:01:49,197 views Failed to fetch weather for Ahmedabad: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Ahmedabad&units=metric&appid=YOUR_OPENWEATHERMAP_API_KEY
+ERROR 2025-09-29 00:01:49,197 views Failed to fetch weather for Kolkata: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Kolkata&units=metric&appid=YOUR_OPENWEATHERMAP_API_KEY
+ERROR 2025-09-29 00:01:49,209 views Failed to fetch weather for Mumbai: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Mumbai&units=metric&appid=YOUR_OPENWEATHERMAP_API_KEY
+ERROR 2025-09-29 00:01:49,661 views Failed to fetch weather for Lucknow: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Lucknow&units=metric&appid=YOUR_OPENWEATHERMAP_API_KEY
+ERROR 2025-09-29 00:01:49,661 views Failed to fetch weather for Jaipur: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Jaipur&units=metric&appid=YOUR_OPENWEATHERMAP_API_KEY
+INFO 2025-09-29 00:04:31,781 autoreload C:\Users\DELL\Documents\SkyPulse-Weather-Forecasting-Web-App12\weatherapp\views.py changed, reloading.
+INFO 2025-09-29 00:04:39,269 autoreload Watching for file changes with StatReloader
+INFO 2025-09-29 00:59:45,950 autoreload C:\Users\DELL\Documents\SkyPulse-Weather-Forecasting-Web-App12\weatherapp\views.py changed, reloading.
+INFO 2025-09-29 00:59:54,718 autoreload Watching for file changes with StatReloader
+INFO 2025-09-29 01:02:05,579 autoreload C:\Users\DELL\Documents\SkyPulse-Weather-Forecasting-Web-App12\weatherapp\views.py changed, reloading.
+INFO 2025-09-29 01:02:13,724 autoreload Watching for file changes with StatReloader
+INFO 2025-09-29 01:03:07,485 autoreload Watching for file changes with StatReloader
+INFO 2026-05-16 00:59:54,252 autoreload Watching for file changes with StatReloader
+WARNING 2026-05-16 01:00:09,499 log Not Found: /favicon.ico
