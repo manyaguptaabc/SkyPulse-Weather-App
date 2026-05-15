@@ -66,7 +66,6 @@ waitress-serve --port=8000 skypulse.wsgi:application
 
 ---
 
-## Team
-- 3-member team project
+- Solo project developed independently
 - Presented to 10+ faculty evaluators
 - Received commendation for clarity and technical depth
